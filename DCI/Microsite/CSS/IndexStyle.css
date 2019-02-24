@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+	color: ref
+	
+	
+}
+head {
+	
+	
+	
+}
+
+body {
+	background-image: url(../IMG/black%20white.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Merienda';
+	background-repeat: no-repeat;
+	
+
+	
+}
+
+header {
+	
+	
+
+}
+#img1 {
+	
+	border-radius: 50%;
+	width: 40%;
+	float: left;
+	margin-left: 20%;
+	
+	border:2px solid #000000;
+}
+main {
+	width: 40%;
+	float: left;
+	margin-top: 5%;
+	clear: both;
+	
+	
+}
+#div1 {
+	  
+	margin-left: 12%;
+	padding: 5%;
+	clear: both;
+	
+	
+	
+}
+aside {
+	
+	width: 50%;
+	
+	text-align: center;
+	margin-top: 15%;
+	margin-left: 5%;
+	padding-right: 0;
+	font-size: 120%;
+	
+	float: right;
+	color: white;
+	
+}
+#P1 {
+	float: right;
+	font-size: 150%;
+	
+}
+aside p {
+	width: 80%;
+	
+	
+}
+footer {
+	
+  
+	bottom: 0;
+	position: absolute;
+	clear: right;
+	margin-left: 40%;
+	color: white;
+	
+	
+}
